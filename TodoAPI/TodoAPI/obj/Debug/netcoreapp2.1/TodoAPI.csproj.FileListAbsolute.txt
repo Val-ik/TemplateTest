@@ -1,0 +1,14 @@
+C:\Users\H184498\Documents\H184498\3.Personal\Maestria\Trimestre 2\Networking\FinalProyect\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.1\TodoAPI.deps.json
+C:\Users\H184498\Documents\H184498\3.Personal\Maestria\Trimestre 2\Networking\FinalProyect\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.1\TodoAPI.runtimeconfig.json
+C:\Users\H184498\Documents\H184498\3.Personal\Maestria\Trimestre 2\Networking\FinalProyect\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.1\TodoAPI.runtimeconfig.dev.json
+C:\Users\H184498\Documents\H184498\3.Personal\Maestria\Trimestre 2\Networking\FinalProyect\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.1\TodoAPI.dll
+C:\Users\H184498\Documents\H184498\3.Personal\Maestria\Trimestre 2\Networking\FinalProyect\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.1\TodoAPI.pdb
+C:\Users\H184498\Documents\H184498\3.Personal\Maestria\Trimestre 2\Networking\FinalProyect\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.1\TodoAPI.csprojAssemblyReference.cache
+C:\Users\H184498\Documents\H184498\3.Personal\Maestria\Trimestre 2\Networking\FinalProyect\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.1\TodoAPI.csproj.CoreCompileInputs.cache
+C:\Users\H184498\Documents\H184498\3.Personal\Maestria\Trimestre 2\Networking\FinalProyect\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.1\TodoAPI.RazorAssemblyInfo.cache
+C:\Users\H184498\Documents\H184498\3.Personal\Maestria\Trimestre 2\Networking\FinalProyect\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.1\TodoAPI.RazorAssemblyInfo.cs
+C:\Users\H184498\Documents\H184498\3.Personal\Maestria\Trimestre 2\Networking\FinalProyect\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.1\TodoAPI.AssemblyInfoInputs.cache
+C:\Users\H184498\Documents\H184498\3.Personal\Maestria\Trimestre 2\Networking\FinalProyect\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.1\TodoAPI.AssemblyInfo.cs
+C:\Users\H184498\Documents\H184498\3.Personal\Maestria\Trimestre 2\Networking\FinalProyect\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.1\TodoAPI.RazorTargetAssemblyInfo.cache
+C:\Users\H184498\Documents\H184498\3.Personal\Maestria\Trimestre 2\Networking\FinalProyect\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.1\TodoAPI.dll
+C:\Users\H184498\Documents\H184498\3.Personal\Maestria\Trimestre 2\Networking\FinalProyect\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.1\TodoAPI.pdb
